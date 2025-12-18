@@ -4,7 +4,7 @@ Aplicación Java ambientada en un universo ficticio, estructurada en seis etapas
 
 Cada etapa fue diseñada para integrar un tipo de base de datos diferente, utilizando el enfoque de Clean Architecture para mantener la escalabilidad y separación de responsabilidades. Se utilizó Spring Framework y se desarrollaron tests unitarios e integrales para garantizar la calidad del código.
 
-### Funcionalidades principales
+### Características
 * Integración estrategica de múltiples motores de persistencia.
 * Diseño modular.
 * Pruebas automatizadas.
