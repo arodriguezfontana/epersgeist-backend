@@ -4,19 +4,19 @@ Aplicación Java ambientada en un universo ficticio, estructurada en seis etapas
 
 Cada etapa fue diseñada para integrar un tipo de base de datos diferente, utilizando el enfoque de Clean Architecture para mantener la escalabilidad y separación de responsabilidades. Se utilizó Spring Framework y se desarrollaron tests unitarios e integrales para garantizar la calidad del código.
 
-### Funcionalidades 
+### Funcionalidades principales
 * Integración estrategica de múltiples motores de persistencia.
 * Diseño modular.
 * Pruebas automatizadas.
 
-### Tecnologías
+### Tecnologías utilizadas
 * Backend: Java (Spring Boot)
 * SQL: PostgreSQL (Hibernate & JPA)
 * NoSQL: MongoDB • Neo4j (Grafos)
 * Advanced Search: Elasticsearch • Kibana
 * Testing: JUnit
 
-En la última etapa se llevó a cabo una investigación sobre Elasticsearch, un motor de persistencia que posteriormente se integró al proyecto para implementar funcionalidades avanzadas de geolocalización y búsquedas semánticas con Python.
+En la última etapa se llevó a cabo una investigación sobre Elasticsearch, un motor de persistencia que posteriormente se integró al proyecto para implementar funcionalidades avanzadas de geolocalización y búsqueda semántica con Python.
 
 ### Más información
 
