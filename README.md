@@ -1,4 +1,4 @@
-# Sistema de Persistencia Múlti-Bases de Datos
+# Arquitectura de Persistencia Políglota
 
 Aplicación Java ambientada en un universo ficticio, estructurada en seis etapas, cada una enfocada en distintas estrategias de persistencia de datos y tecnologías asociadas.
 
